@@ -15,7 +15,7 @@
         <!-- Widgets -->
         <div class="row clearfix">
             <div class="col-lg-3 col-md-3 col-sm-6 col-xs-12">
-                <div class="info-box bg-grey hover-expand-effect">
+                <div class="info-box bg-green hover-expand-effect">
                     <div class="icon">
                         <i class="material-icons">playlist_add_check</i>
                     </div>
